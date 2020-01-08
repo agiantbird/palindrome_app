@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    agiantbird_palindrome (0.1.1)
     ansi (1.5.0)
     builder (3.2.4)
     ffi (1.11.3)
@@ -42,6 +43,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  agiantbird_palindrome (= 0.1.1)
   minitest (= 5.11.3)
   minitest-reporters (= 1.2.0)
   nokogiri (= 1.8.5)
